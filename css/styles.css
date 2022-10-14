@@ -12,3 +12,7 @@ img {
   border: 5px black;
 }
 
+li {
+  list-style-position: inside;
+}
+
