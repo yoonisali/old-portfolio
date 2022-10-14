@@ -19,8 +19,8 @@ _This is a webpage that will be used as a landing page for my programming portfo
 ## Setup/Installation Requirements
 
 * _Clone git repository_
-* _Open html file named queen.html_
-* 
+* _Open html file named index.html_
+
 ## Known Bugs
 
 * none
